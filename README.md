@@ -9,11 +9,11 @@ I’m an MS Biostatistics student at Columbia University with strong experience 
 I’m particularly interested in data analytics roles in sports, health, and research-driven organizations.
 
 ### 🔍 Featured Work
-- 📊 [Project Name]: Brief description (what data, what methods, what insight)
-- 📈 [Project Name]: Brief description
+- 📈 P8104 - Data Science I Final Project: Ran an analysis of MLB players, exploring how salaries were correlated with performance.
+- 📊 P8157 - Analysis of Longitudinal Data Final Project: Ran a longitudinal analysis of patients with primary biliary cirrhosis (PBC) and explored whether treatment with the drug D-penicillamine led to meaningful differences in health outcomes over time.
 
 ### 🛠 Skills
-R | Python | SQL | ggplot2 | tidyverse | pandas | NumPy
+R | Python | SQL | ggplot2 | tidyverse | pandas | NumPy | PyTorch
 
 📫 LinkedIn | Email
 
