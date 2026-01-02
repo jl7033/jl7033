@@ -1,6 +1,6 @@
-## Hi, I’m Joe 👋
+## Hey, everyone! I'm Joe LaRocca.
 
-I’m an MS Biostatistics student at Columbia University with strong experience in:
+I’m a current MS Biostatistics student (graduating in May 2026) at Columbia University with strong experience in:
 - Statistical modeling and inference (R)
 - Data analysis and visualization
 - Applied machine learning (Python)
