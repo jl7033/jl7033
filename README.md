@@ -6,11 +6,6 @@ I’m a current MS Biostatistics student (graduating in May 2026) at Columbia Un
 - Applied machine learning (Python)
 - Working with messy, real-world datasets
 
-I’m particularly interested in data analytics roles in sports, health, and research-driven organizations.
-
-### 🛠 Skills
-R | Python | SQL | ggplot2 | tidyverse | pandas | NumPy | PyTorch
-
 <!--
 **jl7033/jl7033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
