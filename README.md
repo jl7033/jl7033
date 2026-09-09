@@ -1,9 +1,9 @@
 ## Hey, everyone! I'm Joe LaRocca.
 
-I’m a current MS Biostatistics student (graduating in May 2026) at Columbia University with strong experience in:
-- Statistical modeling and inference (R)
-- Data analysis and visualization
-- Applied machine learning (Python)
+I’m a current PhD Biostatistics student at Vanderbilt University with strong experience in:
+- Statistical modeling and inference
+- Statistical genetics
+- Applied machine learning 
 - Working with messy, real-world datasets
 
 <!--
